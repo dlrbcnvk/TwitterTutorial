@@ -107,4 +107,8 @@ iOSInjectionProject/
 
 # End of https://www.toptal.com/developers/gitignore/api/cocoapods,xcode,swift
 
-/TwitterTutorial/*.plist
+### .plist ###
+/**/*.plist
+
+### .lock ###
+.lock
