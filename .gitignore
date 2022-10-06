@@ -111,4 +111,4 @@ iOSInjectionProject/
 /**/*.plist
 
 ### .lock ###
-.lock
+*.lock
